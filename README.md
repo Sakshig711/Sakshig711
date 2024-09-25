@@ -15,7 +15,6 @@
 <a href="https://codepen.io/@sakshi-gangurde" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="@sakshi-gangurde" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/sakshi-s-gangurde" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sakshi-s-gangurde" height="30" width="40" /></a>
 <a href="https://instagram.com/sakshigangurde_711" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sakshigangurde_711" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/sakshigan711" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="sakshigan711" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/sakshigangurde711" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sakshigangurde711" height="30" width="40" /></a>
 </p>
 
