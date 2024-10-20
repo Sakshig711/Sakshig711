@@ -12,28 +12,16 @@
 - 📫 How to reach me **gangurdesakshi711@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://codepen.io/@sakshi-gangurde" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="@sakshi-gangurde" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/sakshi-s-gangurde" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sakshi-s-gangurde" height="30" width="40" /></a>
+<a href="https://instagram.com/sakshigangurde_711" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sakshigangurde_711" height="30" width="40" /></a>
+<a href="https://twitter.com/your-twitter" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="your-twitter" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/sakshigangurde711" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" /></a>
+<a href="https://www.geeksforgeeks.org/user/sakshigan324y/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" alt="GeeksforGeeks" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/sakshig711" target="blank"><img align="center" src="https://img.icons8.com/plasticine/512/codechef.png" alt="CodeChef" height="30" width="40" /></a>
+</p>
 
-<!-- Added a table to align "Connect with me" and "Coding Profiles" side by side -->
-<table>
-  <tr>
-    <td>
-      <p align="left">
-        <a href="https://codepen.io/@sakshi-gangurde" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="@sakshi-gangurde" height="30" width="40" /></a>
-        <a href="https://linkedin.com/in/sakshi-s-gangurde" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sakshi-s-gangurde" height="30" width="40" /></a>
-        <a href="https://instagram.com/sakshigangurde_711" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sakshigangurde_711" height="30" width="40" /></a>
-        <a href="https://x.com/sakshigan_07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="your-twitter" height="30" width="40" /></a>
-      </p>
-    </td>
-    <td style="padding-left: 50px;">
-      <h3 align="left">Coding Profiles:</h3>
-      <p align="left">
-        <a href="https://www.leetcode.com/sakshigangurde711" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" /></a>
-        <a href="https://www.geeksforgeeks.org/user/sakshigan324y/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" alt="GeeksforGeeks" height="30" width="40" /></a>
-        <a href="https://www.codechef.com/users/sakshig711" target="blank"><img align="center" src="https://www.pinterest.com/pin/codechef-codechef--554646510333611675/" alt="CodeChef" height="30" width="40" /></a>
-      </p>
-    </td>
-  </tr>
-</table>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
