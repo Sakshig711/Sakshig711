@@ -5,9 +5,9 @@
 
 - 🔭 I’m currently working on [Cosocket](https://cosocket-client.vercel.app/)
 
-- 🌱 I’m currently learning **Solid Principles, Next.js**
+- 🌱 I’m currently learning **Solid Principles, Next.js.**
 
-- 💬 Ask me about **Competitive programming, Front-end dev**
+- 💬 Ask me about **Competitive programming, Front-end dev.**
 
 - 📫 How to reach me **gangurdesakshi711@gmail.com**
 
