@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Cosocket](https://cosocket-client.vercel.app/)
 
-- 🌱 I’m currently learning **React.js, Blockchain**
+- 🌱 I’m currently learning **Solid Principles, Next.js**
 
 - 💬 Ask me about **Competitive programming, Front-end dev**
 
