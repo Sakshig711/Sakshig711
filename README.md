@@ -69,7 +69,5 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sakshig711&show_icons=true&locale=en&layout=compact" alt="sakshig711" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sakshig711&" alt="sakshig711" /></p>
-<p align="center">  
-  <img src="https://profile-counter.glitch.me/sakshig711/count.svg" alt="Profile Views" />
-</p>
+
 
